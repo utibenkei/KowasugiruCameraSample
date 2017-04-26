@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "Default WebGL_beta.data.unityweb",
+"asmCodeUrl": "Default WebGL_beta.asm.code.unityweb",
+"asmMemoryUrl": "Default WebGL_beta.asm.memory.unityweb",
+"asmFrameworkUrl": "Default WebGL_beta.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
